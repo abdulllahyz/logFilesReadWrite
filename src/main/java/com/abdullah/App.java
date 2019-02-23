@@ -74,9 +74,14 @@ public class App
 
 
                     bufferedWriter.write(String.valueOf(list.get(i))+" ");
-    
+
 
                 }
+
+                System.out.println("====================");
+                System.out.println(  list.get(list.size()-3));
+                System.out.println(  list.get(list.size()-2));
+                System.out.println(list.get(list.size()-1));
 
                 System.out.println("====================");
                 System.out.println(  list.get(list.size()-3));
