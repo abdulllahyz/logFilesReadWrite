@@ -25,3 +25,4 @@ hs_err_pid*
 .idea/google-java-format.xml
 .idea/sonarlint/
 .idea/workspace.xml
+target/
